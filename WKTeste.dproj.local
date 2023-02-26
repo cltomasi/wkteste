@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/03/14 21:34:38.000.362,=C:\Users\TOMASI\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2022/03/14 21:37:45.000.018,=C:\Users\TOMASI\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/04 17:54:24.000.994,=C:\Users\TOMASI\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/23 18:34:58.000.429,=C:\Users\TOMASI\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/23 18:35:38.000.434,C:\Tomasi Sistemas\WKTeste\View\UnPri.pas=C:\Users\TOMASI\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/23 18:35:38.000.434,C:\Tomasi Sistemas\WKTeste\View\UnPri.dfm=C:\Users\TOMASI\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/02/23 18:35:53.000.102,C:\Tomasi Sistemas\WKTeste\WKTeste.dproj=C:\Users\TOMASI\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/02/23 18:36:02.000.230,=C:\Tomasi Sistemas\WKTeste\Unit1.pas</Transaction>
+    <Transaction>2023/02/23 18:36:48.000.747,C:\Tomasi Sistemas\WKTeste\Model\Pessoa.pas=C:\Tomasi Sistemas\WKTeste\Unit1.pas</Transaction>
+    <Transaction>2023/02/23 18:49:14.000.106,=C:\Tomasi Sistemas\WKTeste\Unit1.pas</Transaction>
+    <Transaction>2023/02/23 18:52:12.000.817,C:\Tomasi Sistemas\WKTeste\Model\EnderecoIntegracao.pas=C:\Tomasi Sistemas\WKTeste\Unit1.pas</Transaction>
+    <Transaction>2023/02/23 19:00:42.000.742,=C:\Tomasi Sistemas\WKTeste\Unit1.pas</Transaction>
+    <Transaction>2023/02/23 19:01:41.000.204,C:\Tomasi Sistemas\WKTeste\Model\Endereco.pas=C:\Tomasi Sistemas\WKTeste\Unit1.pas</Transaction>
+    <Transaction>2023/02/23 19:48:28.000.138,=C:\Tomasi Sistemas\WKTeste\Unit1.pas</Transaction>
+    <Transaction>2023/02/23 19:49:35.000.292,C:\Tomasi Sistemas\WKTeste\Controller\unDm.dfm=C:\Tomasi Sistemas\WKTeste\Unit1.dfm</Transaction>
+    <Transaction>2023/02/23 19:49:35.000.292,C:\Tomasi Sistemas\WKTeste\Controller\unDm.pas=C:\Tomasi Sistemas\WKTeste\Unit1.pas</Transaction>
+    <Transaction>2023/02/23 19:55:28.000.700,=C:\Tomasi Sistemas\WKTeste\Unit1.pas</Transaction>
+    <Transaction>2023/02/23 19:55:52.000.966,C:\Tomasi Sistemas\WKTeste\Controller\ControllerPessoa.pas=C:\Tomasi Sistemas\WKTeste\Unit1.pas</Transaction>
+    <Transaction>2023/02/24 13:09:19.000.774,=C:\Tomasi Sistemas\WKTeste\Unit1.pas</Transaction>
+    <Transaction>2023/02/24 13:10:25.000.294,C:\Tomasi Sistemas\WKTeste\View\UnCadastro.dfm=C:\Tomasi Sistemas\WKTeste\Unit1.dfm</Transaction>
+    <Transaction>2023/02/24 13:10:25.000.294,C:\Tomasi Sistemas\WKTeste\View\UnCadastro.pas=C:\Tomasi Sistemas\WKTeste\Unit1.pas</Transaction>
+    <Transaction>2023/02/24 19:51:34.000.660,=C:\Tomasi Sistemas\WKTeste\Unit1.pas</Transaction>
+    <Transaction>2023/02/24 19:52:04.000.767,C:\Tomasi Sistemas\WKTeste\ControllerEnderecoIntegracao.pas=C:\Tomasi Sistemas\WKTeste\Unit1.pas</Transaction>
+    <Transaction>2023/02/24 21:00:17.000.061,=C:\Tomasi Sistemas\WKTeste\Unit1.pas</Transaction>
+    <Transaction>2023/02/24 21:00:32.000.443,C:\Tomasi Sistemas\WKTeste\Unit1.pas=C:\Tomasi Sistemas\WKTeste\Controller\ControllerEndereco.pas</Transaction>
+  </Transactions>
+</BorlandProject>
